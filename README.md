@@ -1,3 +1,11 @@
+# Azure Voting App — Redis
+
+[English](README.md) | [日本語](README.ja.md)
+
+A multi-container voting sample for AKS with a Python/Flask frontend and Redis storage.
+
+---
+
 ---
 page_type: sample
 languages:
